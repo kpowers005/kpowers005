@@ -7,9 +7,6 @@ I love the outdoors and being active in general, I'm something of an athlete, so
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpowers005&layout=compact)](https://github.com/kpowers005/github-readme-stats)
-
-
 ### Contact Info:
 #### Email: kyle.powers617@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/kyle-powers-63739b133/
